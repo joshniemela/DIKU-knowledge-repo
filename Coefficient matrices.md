@@ -1,2 +1,2 @@
 - The left part of an [augmented matrix]([[Augmented matrices]]) representing a 
-  #[[System of linear equations]] #Matrices
+  [[System of linear equations]] #Matrices

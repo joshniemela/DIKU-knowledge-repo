@@ -1,0 +1,1 @@
+- A [matrix]([[Matrices]]) which when [premultiplied]([[Matrix multiplication]]) to a given matrix $$A$$ results in a new matrix $$A'$$ which is equivalent to applying the [ERO]([[Elementary Row Operators]]) that created the elementary matrix.

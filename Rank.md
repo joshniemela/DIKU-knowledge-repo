@@ -1,0 +1,12 @@
+- Rank is the dimension of the [[Vector space]] spanned by its columns
+	- This is the same as the maximum number of linearly independent columns of the [matrix]([[Matrices]])
+-
+- #[[System of linear equations]]
+	- If the rank of the [augmented matrix]([[Augmented matrices]]) is greater than the [coefficient matrix]([[Coefficient matrices]]), then the system is inconsistent 
+	  #Matrices
+	- If the rank is equal, then it has at least one solution
+-
+- Def. 1 (p. 26)
+	- Let $\textbf{A}$ be an $m \times n$ matrix. The rank of $\textbf{A}$, denoted by rank $\textbf{A}$, is the number of nonzero rows in an echelon form for $\textbf{A}$. We write rank $\textbf{A} = r$. It also holds, for every matrix, that $r = n_p$ where $n_p$ is the number of pivots. #definition
+- Theorem 1 (p. 27)
+	- Let $\textbf{A}$ be an $m \times n$ matrix. The rank of $\textbf{A}$, denoted by rank $\textbf{A}$, holds $\text{rank } \textbf{A} \leq \min{\{m,n\}}$.

@@ -1,0 +1,2 @@
+- A matrix $A$ is idempotent $\iff A^2 = A$
+- Idempotent matrices are always [[Square matrices]]

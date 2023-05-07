@@ -1,0 +1,2 @@
+- GJ elimination can be used to convert a matrix into [[Reduced Row Echelon]]
+-

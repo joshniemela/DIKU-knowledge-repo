@@ -1,0 +1,11 @@
+- EROs are used to solve [[System of linear equations]] with [[Gauss-Jordan elimination]]
+- An [elementary matrix]([[Elementary matrices]]) can be created by applying an ERO to the [[Identity Matrix]]
+- The following EROs exist:
+	- Addition: $cr_j+ r_i  \rightarrow r_i$
+	- Swap:  $r_i \leftrightarrow r_j$
+	- Scaling:  $cr_i \rightarrow r_i$ , where $c$  is non-zero
+- Likewise, the [inverse]([[Inverse]]) EROs exist:
+	- Subtraction: $-cr_j + r_i \rightarrow r_i$
+	- Swap:  $r_i \leftrightarrow r_j$
+	- Scaling:  $\frac{1}{c}r_i \rightarrow r_i$ , where $c$  is non-zero.
+- For any matrix $A$ it holds that applying the ERO followed by the inverse ERO will result in $A$

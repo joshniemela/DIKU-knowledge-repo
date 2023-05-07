@@ -1,0 +1,2 @@
+- This is a special category of [[Graphs]], as the name implies, this type of graph does not contain any cycles, which allows it various algortihms to operate on it that would otherwise never terminate, such as [[Dijkstras]].
+- [[Trees]] are DAGs

@@ -1,0 +1,9 @@
+- Graphs can operated upon by various [[Graph Algorithms]] such as [[Depth First Search]], [[Dijkstras]] or [[Kruskals]]
+	-
+- [[Adjacency Matrix]]
+	- To represent a graph as a [matrix]([[Matrices]]) named $A$, you make an $n \times n$ matrix, if the graph has $n$ nodes. Then for all edges going from $i \to j$ we set $A[i, j] := 1$ and otherwise.
+- Strongly connected components
+	- TODO
+- #Trees
+	-
+-

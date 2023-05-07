@@ -1,0 +1,11 @@
+- TODO: ADD ALL THIS
+	- RAM model
+	- Stacks,queues, sets, sequences, sums
+	- Logic
+	- Proofs
+	- Strong Induction *<->* Induction
+	- Combinatorics, probability theory
+	- Order relatins, posets, trees
+	- Lexical analysis, regex and finite automata
+	- Syntax analysis, CFGs
+	- Heaps and priority queues

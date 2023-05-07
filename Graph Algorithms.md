@@ -1,0 +1,5 @@
+- A graph algorithm is an algorithm that can operate on a graph
+- [[Kruskals]]
+- [[Dijkstras]]
+- [[Breadth First Search]] also known as BFS
+- [[Depth First Search]] also known as DFS, is a special case of [[Dijkstras]] where all edge weights are identical.

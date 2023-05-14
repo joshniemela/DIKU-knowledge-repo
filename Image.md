@@ -1,0 +1,1 @@
+- The image of a [linear transform]([[Linear transformations]]) is the [[Span]] of the [[Vectors]] of the transform, aka what can we reach with a given transform.

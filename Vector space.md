@@ -1,1 +1,9 @@
 - #Vectors
+- Vector multiplication has vector addition (and the inverse), as well as scalar multiplication, analogous to [[Elementary Row Operators]]
+	- Vector space ($V$) is represented as $\mathbb{R}^n$ and has to hold the following properties from Def 7.1:
+		- Addition: $V \times V \to V$
+		- Scalar multiplication $R \times V \to V$
+- [[Matrices]] are a vector space since matrices are a generalised [vector]([[Vectors]]).
+- [Polynomial]([[Polynomials]]) space is an abstract vector space
+- Functions are also within a abstract vector space if they are defined across a set
+- Theorem 3.1 contains various operations and identities for vector space

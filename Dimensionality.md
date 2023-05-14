@@ -1,0 +1,3 @@
+- Dimensionality is the number of free variables
+- Dimensionality is the number of columns in A - rank of A
+- $dim(row(A) = rank(A)$

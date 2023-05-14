@@ -1,0 +1,2 @@
+- Opposite of [[Linear independence]]
+- For a space of dimensionality $n$, there can be at most $n$ vectors in the space, otherwise they will be dependent. This is since the DoFs are 0

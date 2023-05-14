@@ -1,0 +1,3 @@
+- Column space is the [[Span]] of all the column vectors in a matrix
+- The columns containing free variables are in the span of the other vectors in the set
+- To find the column space of $A$, put the [matrix]([[Matrices]]) in [[Reduced Row Echelon]], all the columns containing a pivot should be picked from the original matrix, these columns make up the [[Span]] of the column space.

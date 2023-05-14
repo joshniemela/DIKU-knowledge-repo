@@ -1,0 +1,11 @@
+- #[[Vector space]] #Bases #Span #[[Principle Component Analysis]]
+- A subset $\mathcal{U} \subseteq \mathbb{R}^n$ is a subspace if the following holds:
+	- $0 \in U$, origin is part of the subspace
+	- $\forall u, v \in U$ holds that $u+v \in U$, subspaces are closed under addition
+	- $\forall k \in \mathbb{R}, v \in U: kv \in U$, subspaces are closed under scalar multiplication
+- A [[Span]] of vectors is always a subspace containing said vectors. (Theorem 3.2)
+- The [[Dimensionality]] of a subspace is the number of vectors
+- There are three categories of subspaces:
+	- [[Null space]]
+	- [[Row space]]
+	- [[Column space]]

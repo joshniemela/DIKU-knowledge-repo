@@ -1,0 +1,8 @@
+- The theorem states for [[Linear transformations]] that:
+	- $T : V \to W$
+	- $rank(T) + nullity(T) = dim(V)$
+-
+- For [[Matrices]] it states that:
+	- $M \in \mathbb{R}^{m \times n}$
+	- $rank(M) + nullity(M)=n$
+	-

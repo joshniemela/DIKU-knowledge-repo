@@ -1,2 +1,0 @@
-# test.md
-- The kernel of a [[Linear transformations]] is all of \newpage the values that get sent to 0. If the transform is a [matrix]([[Matrices]]), it is analogous to finding the [[Null space]].

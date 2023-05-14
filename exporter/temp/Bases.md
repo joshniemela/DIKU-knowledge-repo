@@ -1,0 +1,9 @@
+- Let U be a [subspace]([[Subspaces]]) in $R^n$, a finite set of the subspace will be a base
+- n vectors can at most span $R^n$
+- All vectors in the base are independent and the base [[Span]] the space
+- A [subspace]([[Subspaces]]) will always have infinitely many subspaces, unless U is 0
+- A standard base will contain the elementary vectors where the n'th vector contains a 1 at the n'th position. Analogous to the [[Identity Matrix]]
+- Given a [[Linear combination]] of [[Vectors]] , any given point in the [[Coordinates]] system can be represented by the coordinates in relation to the base, aka number of steps used of each [[Basis vector]]. If we have vector the basis vectors $b_1$ and $b_2$ and $e$, to find e we solve the matrix $[b_1, b_2 | e]$
+- $\mathcal{B}$ is a base for $\mathcal{U}$ if span of the [[Basis vector]]s are equal to the [subspace]([[Subspaces]])
+- [[Change of basis]]
+- The [[Dimensionality]] of a basis is the number of vectors in said base

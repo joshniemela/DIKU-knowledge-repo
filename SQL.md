@@ -1,0 +1,6 @@
+- A query evaluates as follows
+	- Compute cross product of relation list
+	- Discard tuples that do not meet the predicate
+	- Delete attributes not in target list
+	- Deduplicate if DISTINCT
+- SQL is a practical redesign of [[Relational Algebra]]

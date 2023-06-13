@@ -1,0 +1,5 @@
+- The union of two multisets just results in all of the elements
+- The intersection is the minimum of each element occurring in both sets
+- The set difference subtracts the number of occurances in sets, if less than 0 then truncate to 0
+- The commutative property holds
+- Set union is not idempotent for multisets, $\{1, 2\} \cup \{1, 2\} = \{1, 1, 2, 2\}$

@@ -1,0 +1,4 @@
+- Relational calculus is like the [[Relational Algebra]] version of [[Lambda Calculus]]
+- This is a derived language instead of an engineered language, it is in some ways a fundamental language of logic
+-
+-

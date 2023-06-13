@@ -1,0 +1,1 @@
+- To fulfill 1st normal form, tables must only contain atomic values, lists, sets, and compound values such as (Latitude, Longtitude) saved as a string arent allowed. To resolve this, the non-atomic elements should be put into a new table. A course with multiple exams in a list \to  A course table relating to an exams table

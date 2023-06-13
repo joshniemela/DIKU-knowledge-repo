@@ -1,0 +1,5 @@
+- Relational databases are built around this model
+- RM is expressed using [[Relational Algebra]]
+- Practically, this is queried and designed using [[SQL]]
+-
+-

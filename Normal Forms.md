@@ -1,0 +1,6 @@
+- Normal forms are standards for a [[Relational Database]]
+- Important normal forms include
+	- [[Boyes-Codd Normal Form]]
+	- [[3rd Normal Form]]
+	- [[1st Normal Form]]
+-

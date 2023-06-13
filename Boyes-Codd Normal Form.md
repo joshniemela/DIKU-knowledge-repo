@@ -1,0 +1,2 @@
+- BCNF is an advanced form of [[3rd Normal form]]
+- A table or relation is BCNF if the relation is in [[3rd Normal form]] and for every [[Functional Dependencies]] $X \to Y$, $X$ is the [[Super key]] or a [[Candidate Key]].

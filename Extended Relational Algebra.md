@@ -1,0 +1,7 @@
+- ERA is an extended form of [[Relational Algebra]]
+- $\delta$ is the operator that deduplicates a table
+- Aggregation operators
+	- SUM, AVG, COUNT, MIN, MAX
+- Grouping operators
+	- $\gamma_L$ where L is a list of elements that are either individual elements, or $AGG(A)$ where AGG is an aggregation operator and A is an attribute
+-

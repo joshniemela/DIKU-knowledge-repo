@@ -1,0 +1,2 @@
+- The E/R model is an object oriented approach to the [[Relational Model]]
+-

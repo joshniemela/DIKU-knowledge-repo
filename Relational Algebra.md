@@ -1,0 +1,27 @@
+tags:: Database Information Systems
+
+- Operators:
+	- Selection
+	- Projection
+	- Cross-product
+	- Set-difference
+	- Union
+- Additional
+	- Intersection
+	- Join
+	- Antijoin
+	- Division
+	- Renaming
+- Relational algebra is closed and operators can be composed.
+- Expressibility complications:
+	- Find highest salary of an employee
+		- Create a dominance relation and divide by original table, this finds the most [dominating]([[Dominating set]]) employee in the set
+	- No recursion
+- A bag is a multiset, [[SQL]] uses bag semantics
+- [[Extended Relational Algebra]]
+- If a tuple is dangling under a join:
+	- Natural join destroys this tuple
+	- Outer join pads with $\bot$
+- Outer join has three variants, subscript L only preserves left, subscript R preserves right, no subscript preserves both.
+- In contrast to [[Relational Calculus]], this language is constructed
+-

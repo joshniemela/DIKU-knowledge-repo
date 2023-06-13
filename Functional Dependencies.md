@@ -1,0 +1,22 @@
+- Trivial FDs:
+	- $A \to B$ is trivial $\iff B \subseteq A$
+	- $A \to A$ is trivial
+- Non-trivial FDs:
+	- $A \to B$ is non-trivial $\iff B \nsubseteq A$
+	- if $A \cap B = \emptyset$ then it is a complete non-trivial FD.
+- Armstrong Axioms:
+	- Axiom of reflexivity:
+		- trivial FDs
+	- Axiom of augmentation:
+		- if $A \to B$ holds, then $AX \to BX$ also holds $\forall X$
+	- Axiom of transitivity:
+		- if $A \to B$ and $B \to C$ holds, then $A \to C$ also holds.
+- Derived Armstrong rules:
+	- Union:
+		- If $A \to B$ and $A \to C$ holds, then $A \to BC$ holds
+	- Composition:
+		- If $A \to B$ and $X \to Y$ holds, then $AX \to BY$ also holds.
+	- Decomposition:
+		- if $A \to BC$ holds then $A \to B$ and $A \to C$ also holds
+	- Pseudo-transitivity:
+		- If $A \to B$ and $BC \to D$ holds, then $AC \to D$ holds
